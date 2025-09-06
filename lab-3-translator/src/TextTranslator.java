@@ -1,5 +1,3 @@
-package lab3;
-
 import java.util.List;
 
 public class TextTranslator {
@@ -15,7 +13,7 @@ public class TextTranslator {
         var translated = new StringBuilder();
 
         while (textByTokenReader.readNext()) {
-            if (textByTokenReader.isCurrentWhiteSpace()) {
+            if (textByTokenReader.isCurrentTokenSpacer()) {
                 translated.append(textByTokenReader.current());
                 continue;
             }

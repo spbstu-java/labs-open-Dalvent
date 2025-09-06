@@ -1,5 +1,3 @@
-package lab3;
-
 public class TextByTokenReader {
     public record State(int startIndex, int count) {}
 
@@ -29,11 +27,13 @@ public class TextByTokenReader {
         if (i >= text.length())
             return false;
 
-        char c1 = text.charAt(i);
-        boolean isDelimiterToken = Character.isWhitespace(c1) || !Character.isLetterOrDigit(c1);
+        boolean isLetterOrDigitToken = Character.isLetterOrDigit(text.charAt(i));
+
+        i = Math.min(i + 1, text.length());
         while (i < text.length()) {
-            char c = text.charAt(i);
-            if (!((Character.isWhitespace(c) || !Character.isLetterOrDigit(c)) == isDelimiterToken)) break;
+            if (isLetterOrDigitToken != Character.isLetterOrDigit(text.charAt(i)))
+                break;
+
             i++;
         }
 
@@ -44,35 +44,36 @@ public class TextByTokenReader {
     }
 
     public boolean readNextWordPhrase() {
+        var cancleReadState = getState();
+
         boolean res = readNext();
         if (!res)
             return false;
 
-        if (isCurrentDelimiterSpace())
+        if (isCurrentTokenSpacerWithDelimiter()) {
+            loadState(cancleReadState);
             return false;
+        }
 
-        if (isCurrentWhiteSpace())
+        if (isCurrentTokenSpacer())
             return readNext();
 
         return true;
     }
 
-    public boolean isCurrentWhiteSpace() {
-        for (int i = 0; i < count; i++) {
-            if (!Character.isWhitespace(text.charAt(startIndex + i))) {
-                return false;
-            }
-        }
-        return true;
+    public boolean isCurrentTokenSpacer() {
+        return !Character.isLetterOrDigit(text.charAt(startIndex));
     }
 
-    private boolean isCurrentDelimiterSpace() {
+    private boolean isCurrentTokenSpacerWithDelimiter() {
+        if (!isCurrentTokenSpacer())
+            return false;
+
         for (int i = 0; i < count; i++) {
             char c = text.charAt(startIndex + i);
-            if (Character.isLetterOrDigit(c) || Character.isWhitespace(c)) {
-                return false;
-            }
+            if (!Character.isWhitespace(c))
+                return true;
         }
-        return true;
+        return false;
     }
 }
