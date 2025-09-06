@@ -1,3 +1,7 @@
+# IntelliJ project local stuff
+**/.idea/shelf/
+**/.idea/workspace.xml
+
 ### IntelliJ IDEA ###
 out/
 !**/src/main/**/out/
