@@ -27,7 +27,7 @@ public class TextTranslator {
                 continue;
             }
 
-            var bestMatched = foundBestMatched(matchedPhrases, word);
+            var bestMatched = findBestMatched(matchedPhrases, word);
             if (bestMatched != null)
                 translated.append(bestMatched.translated());
             else
@@ -37,7 +37,7 @@ public class TextTranslator {
         return translated.toString();
     }
 
-    private VocabularyBankFile.TranslatedPhrase foundBestMatched(List<VocabularyBankFile.TranslatedPhrase> phrases, String phrase) {
+    private VocabularyBankFile.TranslatedPhrase findBestMatched(List<VocabularyBankFile.TranslatedPhrase> phrases, String phrase) {
 
         if (phrases.isEmpty())
             return null;
@@ -49,7 +49,7 @@ public class TextTranslator {
                     .filter(f -> f.phrase().startsWith(nextWordPhrase))
                     .toList();
 
-            var nextWordBest = foundBestMatched(nextWordMatched, nextWordPhrase);
+            var nextWordBest = findBestMatched(nextWordMatched, nextWordPhrase);
             if (nextWordBest != null)
                 return nextWordBest;
 
