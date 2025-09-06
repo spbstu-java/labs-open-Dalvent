@@ -1,0 +1,334 @@
+﻿a piece of cake | проще простого
+and | и
+as a result | в результате
+as soon as possible | как можно скорее
+at home | дома
+at night | ночью
+at noon | в полдень
+at the end of the day | в итоге
+back to square one | вернуться к началу
+bear | медведь
+because | потому что
+bed | кровать
+better late than never | лучше поздно, чем никогда
+big | большой
+big black cat | большая чёрная кошка
+big city | большой город
+big dog | большая собака
+big game | большая игра
+bird | птица
+black | чёрный
+black and white | черным по белому
+black cat | чёрная кошка
+black dog | чёрная собака
+blue | синий
+book | книга
+break | ломать
+break a leg | ни пуха ни пера
+break down | сломаться
+break in | вломиться
+break out | вспыхнуть
+break up | расстаться
+brown | коричневый
+burn the midnight oil | работать допоздна
+but | но
+by the way | кстати
+call back | перезвонить
+call it a day | заканчивать на сегодня
+call off | отменить
+call out | выкрикнуть
+call up | позвонить
+carry on | продолжать
+carry out | проводить
+cat | кошка
+check in | зарегистрироваться
+check out | выписаться
+city | город
+classical music | классическая музыка
+close file | закрыть файл
+close the door | закрой дверь
+close window | закрытое окно
+come | приходить
+come across | наткнуться
+come along | пойти вместе
+come back | возвращаться
+come early | приходить рано
+come first | быть первым
+come in | входи
+come late | приходить поздно
+come out | выходить
+come prepared | приходить подготовленным
+come second | быть вторым
+come true | сбываться
+come up with | придумать
+computer | компьютер
+computer game | компьютерная игра
+computer mouse | компьютерная мышь
+copy | копировать
+costs an arm and a leg | стоит целое состояние
+cut | вырезать
+dark green | тёмно-зелёный
+do homework | делать домашнюю работу
+do housework | делать работу по дому
+do nothing | ничего не делать
+do sports | заниматься спортом
+do the dishes | мыть посуду
+do the laundry | стирать
+do your best | старайся изо всех сил
+dog | собака
+dog house | собачья конура
+dog house blues | тоска в конуре
+door | дверь
+easy | лёгкий
+excuse me | извините
+exit | выход
+fall | падать
+fall apart | развалиться
+fall asleep | заснуть
+fall behind | отстать
+fall down | свалиться
+fast | быстрый
+file | файл
+fish | рыба
+for example | например
+fox | лиса
+friday | пятница
+game | игра
+get | получать
+get along | ладить
+get back | вернуться
+get better | становиться лучше
+get bored | скучать
+get cold | замёрзнуть
+get divorced | развестись
+get down | спускаться
+get dressed | одеться
+get fired | быть уволенным
+get hired | наняться
+get hungry | проголодаться
+get in | садиться (в машину)
+get lost | потеряться
+get married | пожениться
+get off | сходить
+get on | садиться (в транспорт)
+get out | выходить
+get over | преодолеть
+get ready | подготовиться
+get started | начать
+get thirsty | испытывать жажду
+get tired | устать
+get undressed | раздеться
+get up | вставать
+get warm | согреться
+get worse | становиться хуже
+give away | раздавать
+give back | вернуть
+give in | уступать
+give off | издавать (запах)
+give up | сдаваться
+go | идти
+go ahead | продолжай
+go away | уходи
+go back | возвращаться
+go home | иди домой
+go on | продолжать
+go outside | выйти на улицу
+go to bed | ложиться спать
+go to school | идти в школу
+go to work | идти на работу
+gold fish | золотая рыбка
+good afternoon | добрый день
+good evening | добрый вечер
+good morning | доброе утро
+good night | спокойной ночи
+gray | серый
+green | зелёный
+guitar | гитара
+hang in there | держись
+happy new year | с новым годом
+hard | трудный
+have a look | взглянуть
+have a meeting | проводить встречу
+have a rest | отдыхать
+have a talk | поговорить
+have a walk | прогуляться
+have breakfast | завтракать
+have dinner | ужинать
+have fun | веселиться
+have lunch | обедать
+hello | привет
+hello world | привет, мир
+hi | привет
+history book | книга по истории
+hit the sack | завалиться спать
+home | дом
+house | дом
+how are you | как дела
+however | однако
+i am fine | я в порядке
+in a nutshell | в двух словах
+in addition | кроме того
+in the evening | вечером
+in the morning | по утрам
+keep in touch | оставаться на связи
+keep on | продолжать
+keep up | не отставать
+last year | прошлый год
+library | библиотека
+light blue | голубой
+lion | лев
+little bird | пташка
+long story short | короче говоря
+look | смотреть
+look after | присматривать
+look ahead | смотреть вперёд
+look alike | выглядеть
+look around | осмотреться
+look at | смотреть на
+look back | смотреть назад
+look better | выглядеть
+look busy | выглядеть
+look far | выглядеть
+look for | искать
+look forward | ожидать
+look forward to | с нетерпением ждать
+look into | изучать
+look like | выглядеть
+look lively | выглядеть
+look older | выглядеть
+look out | осторожно
+look over | просматривать
+look sharp | выглядеть
+look through | пролистать
+look up | искать в справочнике
+look worse | выглядеть
+look younger | выглядеть
+make | делать
+make a decision | принять решение
+make breakfast | готовить завтрак
+make coffee | сварить кофе
+make dinner | готовить ужин
+make ends meet | сводить концы с концами
+make friends | заводить друзей
+make mistakes | делать ошибки
+make money | зарабатывать деньги
+make out | разобрать
+make progress | делать успехи
+make sure | убедиться
+make tea | заварить чай
+make up | придумать
+monday | понедельник
+mouse | мышь
+music | музыка
+new file | новый файл
+new year | новый год
+next year | следующий год
+on the other hand | с другой стороны
+on the road | в дороге
+once in a blue moon | раз в сто лет
+once upon a time | жил-был
+open file | открыть файл
+open the door | открой дверь
+open window | открытое окно
+or | или
+out of the blue | неожиданно
+paste | вставить
+pay attention | обратить внимание
+pay back | вернуть долг
+pay off | окупиться
+piano | пианино
+pick out | выбрать
+pick up | подобрать
+play guitar | играть на гитаре
+play piano | играть на пианино
+please | пожалуйста
+pop music | поп-музыка
+preferences | настройки
+put | класть
+put down | унижать
+put off | откладывать
+put on | надевать
+put out | тушить
+put up with | мириться с
+rat | крыса
+red | красный
+red fish | красная рыба
+redo | повторить
+road | дорога
+rock music | рок-музыка
+rule of thumb | приблизительное правило
+run | бежать
+run across | наткнуться
+run away | убегать
+run into | столкнуться
+run out | заканчиваться
+run over | переехать
+saturday | суббота
+save as | сохранить как
+save file | сохранить файл
+school | школа
+see | видеть
+see you | увидимся
+see you later | до скорого
+see you soon | скоро увидимся
+select all | выделить всё
+set | устанавливать
+set aside | отложить
+set in | установиться
+set off | отправиться в путь
+set out | изложить
+set up | настроить
+settings | настройки
+slow | медленный
+small | маленький
+small cat | маленькая кошка
+small town | маленький город
+sorry | простите
+story book | книга с историями
+sunday | воскресенье
+take | брать
+take a break | сделать перерыв
+take after | пойти в (кого-то)
+take it easy | не переживай
+take off | взлетать
+take on | брать на себя
+take out | вынимать
+take over | захватывать
+take part | принимать участие
+take up | заниматься
+thank you | спасибо
+thanks | спасибо
+the ball is in your court | теперь решать тебе
+therefore | поэтому
+this year | в этом году
+thursday | четверг
+tiger | тигр
+today | сегодня
+tomorrow | завтра
+tuesday | вторник
+turn | поворачивать
+turn down | убавить
+turn into | превращаться
+turn off | выключить
+turn on | включить
+turn out | оказаться
+turn up | прибавить
+under the weather | нездоровится
+undo | отменить
+video game | видеоигра
+village | деревня
+watch | смотреть
+watch a movie | смотреть фильм
+watch tv | смотреть телевизор
+wednesday | среда
+white | белый
+white cat | белая кошка
+window | окно
+wolf | волк
+work | работа
+work off | сжигать (калории)
+work on | работать над
+work out | тренироваться
+yellow | жёлтый
+yesterday | вчера
+you are welcome | пожалуйста
