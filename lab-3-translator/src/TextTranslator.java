@@ -42,7 +42,7 @@ public class TextTranslator {
         if (phrases.isEmpty())
             return null;
 
-        var readerState = textByTokenReader.getState();
+        var cancelReadPhraseState = textByTokenReader.getState();
         if (textByTokenReader.readNextWordPhrase()) {
             var nextWordPhrase = phrase + " " + textByTokenReader.current();
             var nextWordMatched = phrases.stream()
@@ -53,7 +53,7 @@ public class TextTranslator {
             if (nextWordBest != null)
                 return nextWordBest;
 
-            textByTokenReader.loadState(readerState);
+            textByTokenReader.loadState(cancelReadPhraseState);
         }
 
         return phrases.stream()

@@ -44,14 +44,14 @@ public class TextByTokenReader {
     }
 
     public boolean readNextWordPhrase() {
-        var cancleReadState = getState();
+        var cancelReadState = getState();
 
         boolean res = readNext();
         if (!res)
             return false;
 
         if (isCurrentTokenSpacerWithDelimiter()) {
-            loadState(cancleReadState);
+            loadState(cancelReadState);
             return false;
         }
 
