@@ -1,6 +1,6 @@
 # IntelliJ project local stuff
-.idea/shelf/
-.idea/workspace.xml
+**/.idea/shelf/
+**/.idea/workspace.xml
 
 ### IntelliJ IDEA ###
 out/
